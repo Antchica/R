@@ -4,3 +4,10 @@ Este repositorio contiene códigos de ejemplo para realizar visualizaciones de d
 -
 -
 
+## Datos
+El dataset que he elegido es de código abierto y contiene información sobre clientes de un supermercado y, a través de las tarjetas de mimbresía, tiene algunos datos básicos de clientes como:
+-ID de cliente
+-Edad
+-Género
+-Ingresos Anuales
+-Puntuaciones de gatos
