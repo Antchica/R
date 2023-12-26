@@ -1,4 +1,4 @@
-#Visualización de datos en R
+----VISUALIZACIÓN DE DATOS CON R-----
 
 Este repositorio contiene códigos de ejemplo para realizar visualizaciones de datos utilizando las siguientes librerías en R:
 
@@ -6,7 +6,7 @@ Este repositorio contiene códigos de ejemplo para realizar visualizaciones de d
 - [Librería 2]
 - [Librería 3]
 
-##Datos
+----DATASET----
 
 El dataset que he elegido es de código abierto y contiene información sobre clientes de un supermercado. A través de las tarjetas de membresía, se recopilan algunos datos básicos de los clientes, como:
 
