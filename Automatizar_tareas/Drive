@@ -30,3 +30,4 @@ file_uploaded <- drive_upload (path = file,
                          media = archivo_local,
                          home = nombre_en_drive,
                          type = "html")
+```
